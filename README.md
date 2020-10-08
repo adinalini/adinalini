@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Will this this part soon ^ ^
+[![Aditya Nalini's github stats](https://github-readme-stats.vercel.app/api?username=adinalini)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **adinalini/adinalini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
